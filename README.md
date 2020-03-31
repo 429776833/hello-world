@@ -1,3 +1,1 @@
-# hello-world
-first repository
-hi humans!
+hjd2048#gmail.com 2048
